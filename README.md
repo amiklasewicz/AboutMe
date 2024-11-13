@@ -1,5 +1,24 @@
 # Senior QA Automation Engineer - Portfolio
 
+
+## Table of Contents
+- [About Me](#about-me)
+- [Professional Experience](#professional-experience)
+  - [MostlyAi](#mostlyai)
+  - [Jeppesen (A Boeing Company)](#jeppesen-a-boeing-company)
+  - [Pegasystems](#pegasystems)
+  - [Intive](#intive)
+  - [3Shape](#3shape)
+    - [Software Test Engineer](#software-test-engineer)
+    - [Software Test Leader](#software-test-leader)
+  - [Softbay](#softbay)
+    - [Hospital Registration System](#hospital-registration-system)
+    - [Medical Employee Management Portal (e-zdrowie)](#medical-employee-management-portal-e-zdrowie)
+    - [Hospital Information System (HIS) Adjustment](#hospital-information-system-his-adjustment)
+    - [Cloud Storage System for Medical Documentation](#cloud-storage-system-for-medical-documentation)
+
+---
+
 ## About Me
 I am a Senior QA Automation Engineer with extensive experience in leading QA teams and building automation solutions across various industries. My expertise includes designing and implementing automated test strategies, ensuring software quality, and promoting a culture of continuous improvement within QA teams.
 
