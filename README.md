@@ -1,6 +1,5 @@
 # Senior QA Automation Engineer - Portfolio
 
-
 ## Table of Contents
 - [About Me](#about-me)
 - [Professional Experience](#professional-experience)
@@ -9,13 +8,13 @@
   - [Pegasystems](#pegasystems)
   - [Intive](#intive)
   - [3Shape](#3shape)
-    - [Software Test Engineer](#software-test-engineer)
-    - [Software Test Leader](#software-test-leader)
+    - [Software Test Engineer](#role-software-test-engineer)
+    - [Software Test Leader](#role-software-test-leader)
   - [Softbay](#softbay)
-    - [Hospital Registration System](#hospital-registration-system)
-    - [Medical Employee Management Portal (e-zdrowie)](#medical-employee-management-portal-e-zdrowie)
-    - [Hospital Information System (HIS) Adjustment](#hospital-information-system-his-adjustment)
-    - [Cloud Storage System for Medical Documentation](#cloud-storage-system-for-medical-documentation)
+    - [Hospital Registration System](#project-hospital-registration-system)
+    - [Medical Employee Management Portal (e-zdrowie)](#project-medical-employee-management-portal-e-zdrowie)
+    - [Hospital Information System (HIS) Adjustment](#project-hospital-information-system-his-adjustment)
+    - [Cloud Storage System for Medical Documentation](#project-cloud-storage-system-for-medical-documentation)
 
 ---
 
